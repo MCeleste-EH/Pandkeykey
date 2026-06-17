@@ -1,0 +1,96 @@
+stylesmision.css
+/* estilo general */
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#7ca67c; /* verde suave */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+/* Encabezado */
+
+header{
+
+    background-color: #7ca67c; /* verde suave */
+    color: white;
+    text-align: center;
+    padding: 25px;
+
+}
+  /* Menú */
+
+nav{
+
+    background-color: #6f966f;
+    padding: 0px;
+    text-align: center;
+
+}
+/* encabezado principal */
+h1 {
+	text-align: center;
+    background-color: #7ca67c; /* verde suave */
+    color: white;
+    padding: 20px 10px;
+    margin: 25;
+}
+/* imagen logotipo */
+img {
+	display: block;
+    margin: 20px auto px;
+}
+/* eslogan */
+h3 {
+	text-align: center;
+    color:#7ca67c ;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+/* linea divisora */
+hr {
+	border: none;
+    height: 2px;
+    background-color: #cfe2f3;
+    margin: 0px auto;
+    max-width: 800px;
+}
+/* secciones principales */
+section {
+	background-color: #ffffff;
+    max-width: 800px;
+    margin: 30auto 30px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+/* subtitulos */
+h2 {
+	color: #225ca8;
+    border-left: 6px solid #3c7dc0;
+    padding-left: 10px;
+    margin-top: 0;
+}
+/* parrafos */
+p {
+	font-size: 16px;
+    line-height: 1.6;
+}
+/* lista de valores */
+ul {
+	padding-left: 20px;
+}
+li {
+	margin-bottom: 10px;
+}
+li strong {
+	color: #1a4e8a;
+}
+/* pie de pagina */
+footer {
+	background-color: #7ca67c; /* verde suave */
+    color: white;
+    text-align: center;
+    font-size: 0px;
+    padding: 0px 0px;
+    margin-top: 0px;
+}
